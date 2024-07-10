@@ -1,0 +1,55 @@
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\SN\DstrSantaNatura-SV\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\SN\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\SN\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\SN\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\SN\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SN\DstrSantaNatura-SV\CapaNegocio\obj\Debug\CapaNegocio.pdb

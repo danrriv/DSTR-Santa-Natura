@@ -1,0 +1,30 @@
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\PROYECTOS\PRO-VENDER\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Santa Natura\RamaMelanie\Parte-Definitiva\Primera-Prueba\Revision-SantaNatura\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\SN\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\SN\DstrSantaNatura-SV\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\SN\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\SN\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\SN\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\SN\DstrSantaNatura-SV\CapaEntidad\obj\Debug\CapaEntidad.pdb
